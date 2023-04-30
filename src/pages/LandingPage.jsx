@@ -1,9 +1,10 @@
 import React from "react";
 import Sidebar from "../components/Sidebar";
 import Display from "../components/Display";
+import "./landingpage.css"
 const LandingPage=()=>{
     return(
-        <div>
+        <div className="LandingPage">
             <Sidebar/>
             <Display/>
         </div>

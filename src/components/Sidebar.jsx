@@ -1,7 +1,8 @@
 import React from "react";
+import "./sidebar.css"
 const Sidebar=()=>{
     return (
-        <div>
+        <div className="sidebar">
             Hello I am account
         </div>
     )
