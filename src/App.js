@@ -1,5 +1,6 @@
 import { Route,Routes } from 'react-router-dom';
 import "./app.css"
+import "./style.css"
 import LandingPage from './pages/LandingPage';
 import BookReview from './pages/BookReview';
 import About from './pages/About';

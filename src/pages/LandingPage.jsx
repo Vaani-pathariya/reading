@@ -5,7 +5,9 @@ const LandingPage=()=>{
     return(
         <>
         <Navbar/>
-        <div>Hello I am landing</div>
+        <div className="landing_page">
+            <h1>Your bestie who reads books</h1>
+        </div>
         <Footer/>
         </>
     )
