@@ -1,1 +1,0 @@
-Hey , this is the book blog that I own
